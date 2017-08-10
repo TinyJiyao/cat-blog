@@ -1,0 +1,10 @@
+body{
+	min-height: 2000px;
+	padding-top: 70px;
+}
+.cat-navbar {
+	border-top: 1px solid $theme-color;
+	.cat-logo {
+		color: $theme-color;
+	}
+}

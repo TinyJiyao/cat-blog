@@ -8350,3 +8350,16 @@ button.close {
   }
 }
 
+body {
+  min-height: 2000px;
+  padding-top: 70px;
+}
+
+.cat-navbar {
+  border-top: 1px solid #ED947A;
+}
+
+.cat-navbar .cat-logo {
+  color: #ED947A;
+}
+
